@@ -1,3 +1,8 @@
 {
+  "metadata": {
+    "version": "6.0.0",
+    "description": "Provisions an Azure Storage Account with networking, monitoring, and security configurations",
+    "provider": "azurerm"
+  },
   "name": "azure_storage_account"
 }
